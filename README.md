@@ -3,6 +3,7 @@
 ## Мартин Јованов, бр. на индекс 232102
 
 ### Control Flow Graph
+![cfg](https://github.com/user-attachments/assets/2a7322ab-1545-4c70-980e-b2de98199779)
 
 ### Цикломатска комплексност
 
